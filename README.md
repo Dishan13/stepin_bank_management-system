@@ -38,6 +38,6 @@ FOLDER	DESCRIPTION
    <img src="https://code-inspector.com/public/badge/user/github/Dishan13?style=light" alt="code inspector badge" />
 </a>
 
-https://www.code-inspector.com/project/27925/score/svg
+![code quality score] (https://www.code-inspector.com/project/27925/score/svg)
 
 https://www.code-inspector.com/project/27925/status/svg
