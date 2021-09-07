@@ -28,6 +28,7 @@ FOLDER	DESCRIPTION
 
 # BADGES
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fbd3fe80d837445e9e82b57c789620fc)](https://app.codacy.com/gh/Dishan13/stepin_bank_management-system?utm_source=github.com&utm_medium=referral&utm_content=Dishan13/stepin_bank_management-system&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml/badge.svg)](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml)
 
 [![CI](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml/badge.svg)](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml)
