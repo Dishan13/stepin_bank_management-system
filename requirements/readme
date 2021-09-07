@@ -1,2 +1,40 @@
+•	This code is in C- programming language. A gcc-compiler that has a supporting IDE to run the code efficiently.
+•	A simple bank management includes 
+	creation of an account
+	update information of existing account
+	Transactions like credit or debit
+	Check details of existing account
+	Remove existing account
+	View customer list
+	ATM 
+	And many more
+•	In the written code, 
+	PASSWORD - login
+	ATM ACC PIN NUMBER - 1234
+•	There are 7 choices to choose from to perform certain actions as mentioned above.
 
+
+
+SWOT ANALYSIS
+
+STRENGTHS
+1. The code is robust and executes well for the inputs given by the user
+2. Fetches all inputs in from the user and provides appropriate output
+3.This is compiled using cygwin gcc compiler and hence robustness and effeciency i taken care of.
+
+WEAKNESSES
+1. The code doesnt free the memory space after the end of execution.
+2. The number of options available are less and hence limited operations are performed
+3. Function pointers can be included to make the code more effecient and safe from external threats.
+
+Opportunities
+1. More functions and function pointers can be included.
+2. More number of pointer variables and function pointers can be included.
+3. More effecient and a code with lesser lines can also be implemented.
+
+Threats
+1. Lesser functions and pointer functions may lead to external attacks when implemented in a real life and a large scale
+2. IDE and Compilers which has better versions can be used to obtain effecient results.
+
+4W's and 1'H
 
