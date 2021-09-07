@@ -1,0 +1,16 @@
+# ignore files of extention
+1. .inc
+2. .o
+3. .o.d
+4. .xml
+5. .mk
+6. .bash
+7. .cpp
+
+# Igore folders 
+1. build
+2. dist
+3. nbproject
+4. debug
+5. Cygwin_1-Windows
+6. private
