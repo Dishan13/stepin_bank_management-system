@@ -14,3 +14,16 @@
 	ATM ACC PIN NUMBER - 1234
 •	There are 7 choices to choose from to perform certain actions as mentioned above.
 
+FOLDER	DESCRIPTION
+1. Requirement     :	All requirements and research are included
+2. Design	         :  Specification of design details
+3. Implementation  :  Code documentation
+4. Test	           :  Test plans and procedure
+
+
+RESOURCE AND REFERENCES
+
+1. git inspector
+2. https://itsourcecode.com/
+
+BADGES
