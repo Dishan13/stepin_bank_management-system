@@ -21,9 +21,11 @@ FOLDER	DESCRIPTION
 4. Test	           :  Test plans and procedure
 
 
-RESOURCE AND REFERENCES
+# RESOURCE AND REFERENCES
 
 1. git inspector
 2. https://itsourcecode.com/
 
-BADGES
+# BADGES
+
+[![CI](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml/badge.svg)](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml)
