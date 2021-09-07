@@ -1,0 +1,11 @@
+- name: Nix Shell
+  # You may pin to the exact commit or the version.
+  # uses: workflow/nix-shell-action@469e057ef6ae645b60473cc006a5683ef0d6d5ce
+  uses: workflow/nix-shell-action@v1
+  with:
+    # Interpreter to use in the nix shell shebang
+    interpreter: # default is bash
+    # Comma separated list of packages that are to be available in your shell
+    packages: # default is bash
+    # The actual script to execute in the shell
+    script: 
