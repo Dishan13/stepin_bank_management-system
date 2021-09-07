@@ -1,0 +1,9 @@
+- name: install-aws-cli-action
+  # You may pin to the exact commit or the version.
+  # uses: unfor19/install-aws-cli-action@f2649938c0ed0514cfc5448f0b96516580d34e53
+  uses: unfor19/install-aws-cli-action@v1
+  with:
+    # 1=latest version of v1, 2=latest version of v2, #.#.#=specific version
+    version: # optional, default is 2
+    # Prints ls commands to see changes in the filesystem
+    verbose: # optional
