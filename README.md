@@ -13,6 +13,7 @@
 	PASSWORD - login
 	ATM ACC PIN NUMBER - 1234
 •	There are 7 choices to choose from to perform certain actions as mentioned above.
+record.dat file is the input file that contains the existing account details
 
 FOLDER	DESCRIPTION
 1. Requirement     :	All requirements and research are included
