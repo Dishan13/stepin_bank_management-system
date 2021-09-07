@@ -34,4 +34,6 @@ FOLDER	DESCRIPTION
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3929183ffe243389bdf1ae47566eeb8)](https://www.codacy.com/gh/Dishan13/stepin_bank_management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dishan13/stepin_bank_management-system&amp;utm_campaign=Badge_Grade)
 
-
+<a href="https://frontend.code-inspector.com/public/user/github/Dishan13">
+   <img src="https://code-inspector.com/public/badge/user/github/Dishan13?style=light" alt="code inspector badge" />
+</a>
