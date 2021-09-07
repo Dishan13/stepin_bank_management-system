@@ -29,3 +29,5 @@ FOLDER	DESCRIPTION
 # BADGES
 
 [![CI](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml/badge.svg)](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml)
+
+[![CI](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml/badge.svg)](https://github.com/Dishan13/stepin_bank_management-system/actions/workflows/main.yml)
