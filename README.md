@@ -41,7 +41,7 @@ FOLDER	DESCRIPTION
    <img src="https://code-inspector.com/public/badge/user/github/Dishan13?style=light" alt="code inspector badge" />
 </a>
 
-#SWOT ANALYSIS
+# SWOT ANALYSIS
 
 STRENGTH:
 The strengths of the code lies in the robustness of the environment the code is run along with the cygwin compiler. 
